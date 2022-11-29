@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Телефонная книга</string>
+    <string name="input_name">Введите имя</string>
+    <string name="input_phone">Введите номер</string>
+</resources>
